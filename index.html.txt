@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+Mi primera GitHub Page
+</title>
+</head>
+<body>
+UNIVERSIDAD DE LOS LLANOS CÓDIGO: FO-DOC-112
+VERSIÓN: 01 PÁGINA: 3 de 5
+PROCESO GESTION DE APOYO A LA ACADEMIA FECHA: 12/08/2022
+FORMATO GUÍA PARA PRÁCTICAS DE LABORATORIO VIGENCIA: 2022
+<header>
+<h1>Bienvenidos</h1>
+ </header>
+<h2>Esta es mi primera GitHub Page </h2>
+</body>
+</html>
